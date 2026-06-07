@@ -1,0 +1,22 @@
+[
+  {
+      "package": "hcinfer",
+      "url": "https://github.com/prdm0/hcinfer"
+  },
+  {
+      "package": "AcceptReject",
+      "url": "https://github.com/prdm0/AcceptReject"
+  },
+  {
+      "package": "hcci",
+      "url": "https://github.com/prdm0/hcci"
+  },
+  {
+      "package": "hcci",
+      "url": "https://github.com/prdm0/FastSurvivalSVM"
+  },
+  {
+      "package": "hcci",
+      "url": "https://github.com/prdm0/AdequacyModel"
+  } 
+]

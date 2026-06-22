@@ -18,5 +18,9 @@
   {
       "package": "hcci",
       "url": "https://github.com/prdm0/AdequacyModel"
-  } 
+  },
+  {
+      "package": "calibratr",
+      "url": "https://github.com/prdm0/calibratr"
+  }
 ]
